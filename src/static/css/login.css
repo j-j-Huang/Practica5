@@ -1,0 +1,22 @@
+/* Asegúrate de que estos estilos se apliquen */
+body {
+    background-color: #f8f9fa;
+    padding-top: 40px;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.btn {
+    width: 100%;
+}
