@@ -1,4 +1,17 @@
-/* Asegúrate de que estos estilos se apliquen */
+
+.alert {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+
 body {
     background-color: #f8f9fa;
     padding-top: 40px;
