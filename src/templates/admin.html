@@ -3,7 +3,7 @@
 {% block titulo %}Inicio{% endblock %}
 
 {% block cuerpo %} 
-<h1>Bienvenido al sistema</h1>
+<h1>Bienvenido al sistema a admin</h1>
 <h1>{{ current_user.fullname }}</h1>
 <a class="btn btn-danger" href="{{ url_for('logout') }}" >LogOut</a>
 {% endblock %} 
